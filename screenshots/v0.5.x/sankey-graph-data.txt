@@ -1,0 +1,30 @@
+' Type a list of Flows, like this:
+'     SOURCE [AMOUNT] TARGET
+' Examples:
+
+font-nerd-icons [519] Font-Awesome
+font-nerd-icons [190] devicons
+font-nerd-icons [20] vim-devicons
+font-nerd-icons [180] octicons
+font-nerd-icons [8] pomicons
+
+' After all your Flows are entered, use
+' the controls below to customize the
+' diagram's appearance.
+
+' For even finer control over presentation,
+' see the Manual.
+
+
+nerd-font icons [519] Font-Awesome
+nerd-font icons [190] devicons
+nerd-font icons [50] vim-devicons
+nerd-font icons [180] octicons
+nerd-font icons [8] pomicons
+
+options:
+
+theme: a
+bold, mono
+label suffix: ' icons'
+reverse the graph
