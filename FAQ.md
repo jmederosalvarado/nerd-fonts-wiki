@@ -23,9 +23,10 @@ see: [Reporting Issues](wiki/how-to-report-issues)
 ## Which font?
 
 ### TL;DR
-Pick your font family and then select from the 'complete' folder.
-Are you on Windows? Pick one with 'Windows Compatible'
-Are you limited to mono fonts (because of your terminal etc)? Pick one with 'Mono'
+
+0. Pick your font family and then select from the `'complete'` directory.
+  * Are you on Windows? Pick a font with the suffix `'Windows Compatible'`
+  * Are you limited to mono fonts (because of your terminal, etc)? Pick a font with the suffix `'Mono'`
 
 ### Explanation
 
