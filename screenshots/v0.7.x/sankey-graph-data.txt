@@ -1,0 +1,36 @@
+' input the following at: http://sankeymatic.com/build/
+' Type a list of Flows, like this:
+'     SOURCE [AMOUNT] TARGET
+' Examples:
+
+' old names:
+'font-nerd-icons [605] Font-Awesome
+'font-nerd-icons [190] devicons
+'font-nerd-icons [20] vim-devicons
+'font-nerd-icons [180] octicons
+'font-nerd-icons [8] pomicons
+
+' After all your Flows are entered, use
+' the controls below to customize the
+' diagram's appearance.
+
+' For even finer control over presentation,
+' see the Manual.
+
+
+Nerd Fonts [605] Font-Awesome
+Nerd Fonts [190] Devicons
+Nerd Fonts [50] Seti-UI + Custom
+Nerd Fonts [180] Octicons
+Nerd Fonts [8] Pomicons
+
+' size, spacing, shape:
+' use defaults, except:
+' curviness: max "("
+' node width: 20px
+
+'options:
+'theme: a
+'bold, mono
+'label suffix: ' icons'
+'reverse the graph
