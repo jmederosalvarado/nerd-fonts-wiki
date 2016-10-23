@@ -9,6 +9,7 @@
 0. [Which one do I want?](#which-font)
  0. [TL;DR](#tldr)
  0. [Explanation](#explanation)
+0. [Why isn't my favorite font included (already patched)?](#why-isn't-my-favorite-font-included)
 
 ---
 
@@ -38,6 +39,11 @@ Once you narrow done your font choice of family (Droid Sans, Inconsolata, etc) a
  * minimal
   * This contains just the glyphs needed to use [vim-devicons][vim-devicons]. This is mostly provided for historical purposes. This might end up being removed at some point if it ends up causing too much confusion and/or providing little purpose in the grand scheme of things.
 
+## Why isn't my favorite font included?
+
+It is most likely due to the font not being free _or_ due to licensing reasons which prevent distributing or distributing modified versions. E.g., [Consolas][consolas] (proprietary), [Input Mono][input-mono] (license restriction), [PragmataPro][pragmatapro] (not free), etc. 
+
+Most fonts you can freely modify on your own so feel free to try patching them on your own :)
 
 [vim-devicons]:https://github.com/ryanoasis/vim-devicons
 [vorillaz-devicons]:http://vorillaz.github.io/devicons/
@@ -46,3 +52,6 @@ Once you narrow done your font choice of family (Droid Sans, Inconsolata, etc) a
 [gabrielelana-pomicons]:https://github.com/gabrielelana/pomicons
 [Seti-UI]:https://atom.io/themes/seti-ui
 [ryanoasis-powerline-extra-symbols]:https://github.com/ryanoasis/powerline-extra-symbols
+[consolas]:https://www.microsoft.com/typography/fonts/family.aspx?FID=300
+[input-mono]:http://input.fontbureau.com/download/
+[pragmatapro]:http://www.fsd.it/shop/fonts/pragmatapro/
