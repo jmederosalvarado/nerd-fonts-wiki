@@ -9,7 +9,7 @@
 0. [Which one do I want?](#which-font)
  0. [TL;DR](#tldr)
  0. [Explanation](#explanation)
-0. [Why isn't my favorite font included (already patched)?](#why-isn't-my-favorite-font-included)
+0. [Why isn't my favorite font included (already patched)?](#why-isnt-my-favorite-font-included)
 
 ---
 
