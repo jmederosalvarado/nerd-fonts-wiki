@@ -1,0 +1,37 @@
+' input the following at: http://sankeymatic.com/build/
+' Type a list of Flows, like this:
+'     SOURCE [AMOUNT] TARGET
+
+' After all your Flows are entered, use
+' the controls below to customize the
+' diagram's appearance.
+
+' For even finer control over presentation,
+' see the Manual.
+
+Nerd Fonts [7] Powerline Symbols
+Nerd Fonts [30] Powerline Extra Symbols
+Nerd Fonts [675] Font Awesome
+Nerd Fonts [170] Font Awesome Extension
+Nerd Fonts [197] Devicons
+Nerd Fonts [50] Seti UI + Custom
+Nerd Fonts [172] Octicons
+Nerd Fonts [16] Font Linux
+Nerd Fonts [5] IEC Power Symbols
+Nerd Fonts [8] Pomicons
+
+' size, spacing, shape:
+' use defaults, except:
+' curviness: max "("
+' space between nodes: 20px
+' node width: 20px
+
+'options:
+'theme: a
+'medium weight, mono
+'label suffix: ' icons'
+' advanced options:
+'reverse the graph
+
+' export as 1x (basic)
+
