@@ -1,0 +1,5 @@
+autocrop images
+
+resize and set height to 52px
+
+
