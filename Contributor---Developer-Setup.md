@@ -1,3 +1,22 @@
+<h1 align="center">
+	<img src="https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/images/nerd-fonts-logo.png" alt="Nerd Fonts" />
+</h1>
+
+0. [Prerequisites](#prerequisites)
+  0. [Required](#required)
+  0. [Highly Recommended](#highly-recommended)
+0. [Hack font building prerequisites](#hack-font-building-prerequisites]
+  0. [OSX](#osx)
+  0. [Linux](#linux)
+    0. [FreeType](#build-freetype-from-source)
+    0. [Harfbuzz](#build-harfbuzz-from-source)
+    0. [ttfautohint](#build-ttfautohint-from-source)
+0. [Sanity Tests](#sanity-tests)
+0. [Troubleshooting](#troubleshooting)
+0. [Resources](#resources)
+
+---
+
 # Contributor / Developer Setup
 
 * The basics of what you need to get up and running :)
@@ -16,7 +35,7 @@
 * ShellCheck
 * Pyflakes (PEP8 compliance)
 
-## Hack (Knack) font building prerequisites
+## Hack font building prerequisites
 
 ### OSX
 
@@ -84,7 +103,7 @@ ttfautohint -l 4 -r 80 -G 350 -x 0 -H 181 -D latn -f latn -w G -W -t -X "" -I -m
 
 cause: Too old of a version of ttfautohint, works but doesn't have -H option
 
-```shell
+```
 checking for HARFBUZZ... no
 configure: error: Package requirements (harfbuzz >= 0.9.19) were not met:
 
@@ -100,7 +119,7 @@ See the pkg-config man page for more details.
 
 cause: harfbuzz not installed or not installed correctly
 
-```shell
+```
 tashaper.h:29:19: fatal error: hb-ft.h: No such file or directory
  #include <hb-ft.h>
                    ^
@@ -109,7 +128,7 @@ compilation terminated.
 
 cause: harfbuzz not installed or not installed correctly
 
-```shell
+```
 ttfautohint: undefined symbol: hb_ft_font_create
 ```
 
