@@ -5,7 +5,7 @@
 0. [Prerequisites](#prerequisites)
   0. [Required](#required)
   0. [Highly Recommended](#highly-recommended)
-0. [Hack font building prerequisites](#hack-font-building-prerequisites]
+0. [Hack (Knack) font building prerequisites](#hack-font-building-prerequisites)
   0. [OSX](#osx)
   0. [Linux](#linux)
     0. [FreeType](#build-freetype-from-source)
