@@ -17,8 +17,6 @@
 
 ---
 
-# Contributor / Developer Setup
-
 * The basics of what you need to get up and running :)
 
 ## Prerequisites
