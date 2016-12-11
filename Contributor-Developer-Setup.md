@@ -48,7 +48,9 @@ todo
 
 ### Windows
 
-todo
+* Download and install Python (latest 2.x or 3.x should be fine): https://www.python.org/downloads/windows/
+* Download and install FontForge: http://fontforge.github.io/en-US/downloads/windows-dl/
+* Download and install Cygwin: https://cygwin.com/install.html
 
 ## Hack (Knack) font specific Development
 
@@ -57,6 +59,10 @@ todo
 ### OSX
 
 todo
+
+### Windows
+
+* Download and install ttfautohint: https://www.freetype.org/ttfautohint/
 
 ### Linux
 
