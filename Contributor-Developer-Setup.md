@@ -44,7 +44,12 @@ todo
 
 ### Linux
 
-todo
+* Download and install Python if not already installed: http://docs.python-guide.org/en/latest/starting/install/linux/
+  * check `python --version`
+  * latest 2.x or 3.x should be fine
+* Download and install FontForge: http://fontforge.github.io/en-US/downloads/gnulinux-dl/
+  * version should be at least `20141231`
+  * verify version: `fontforge --version 2>&1 | grep libfontforge | awk '{print $NF}'`
 
 ### Windows
 
