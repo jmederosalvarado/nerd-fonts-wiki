@@ -5,7 +5,8 @@
 0. [Prerequisites](#prerequisites)
   0. [Required](#required)
   0. [Highly Recommended](#highly-recommended)
-0. [Hack (Knack) font building prerequisites](#hack-font-building-prerequisites)
+0. [Base Nerd Fonts Development](#base-nerd-fonts-development)
+0. [Hack (Knack) font specific](#hack-knack-font-specific-development)
   0. [OSX](#osx)
   0. [Linux](#linux)
     0. [FreeType](#build-freetype-from-source)
@@ -33,7 +34,25 @@
 * ShellCheck
 * Pyflakes (PEP8 compliance)
 
-## Hack font building prerequisites
+## Base Nerd Fonts Development
+
+* What you need to contribute to the _core_ of Nerd Fonts
+
+### OSX
+
+todo
+
+### Linux
+
+todo
+
+### Windows
+
+todo
+
+## Hack (Knack) font specific Development
+
+* What you need to contribute to the _Hack (Knack) specific portion_ of Nerd Fonts
 
 ### OSX
 
