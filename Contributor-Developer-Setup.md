@@ -78,6 +78,7 @@ todo
 #### Build FreeType from source
 
 ```
+wget http://downloads.sourceforge.net/project/freetype/freetype2/2.7/freetype-2.7.tar.gz
 cd freetype-2.7
 ./configure
 make
