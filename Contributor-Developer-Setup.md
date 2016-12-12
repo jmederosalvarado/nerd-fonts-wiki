@@ -106,11 +106,18 @@ sudo apt install g++
 #### Build ttfautohint from source
 
 ```
+wget http://download.savannah.gnu.org/releases/freetype/ttfautohint-1.6.tar.gz
+tar -zxf ttfautohint-1.6.tar.gz
 cd ttfautohint-1.6
 ./configure --with-qt=no --with-doc=no
 make
 sudo make install
 ```
+###### C++11 compiler
+
+* if you get an error during `make` for ttfautohint: `configure: error: *** A compiler with support for C++11 language features is required.`
+
+Then install compiler such as `g++` (shown above) then re-run configure & make, etc
 
 ##### Verify the version
 
