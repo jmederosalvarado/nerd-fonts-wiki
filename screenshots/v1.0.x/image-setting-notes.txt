@@ -1,0 +1,16 @@
+autocrop images
+
+resize and set height to 52px
+
+
+for logo badge:
+
+http://b64.io/
+
+test badge:
+
+https://img.shields.io/github/release/ryanoasis/nerd-fonts.svg?style=flat-square&logo=
+
+then url encode:
+
+http://meyerweb.com/eric/tools/dencoder/
