@@ -8,10 +8,10 @@
 
 ### Original Codepoints
 
-todo image
+![image](https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/screenshots/v1.0.x/fontforge-glyph-set-octicons-original.png)
 
 ### New Codepoints
 
 * Present in the default 'complete' set of patched fonts
 
-todo image
+![image](https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/screenshots/v1.0.x/fontforge-glyph-set-octicons.png)
