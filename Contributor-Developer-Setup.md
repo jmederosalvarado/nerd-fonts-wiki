@@ -99,6 +99,8 @@ sudo make install
 
 #### g++ (if needed)
 
+* if you ran into an issue where a compiler is needed you will probably have to start over with the config but first run: `make distclean`
+
 ```
 sudo apt install g++
 ```
