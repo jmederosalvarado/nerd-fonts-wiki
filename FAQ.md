@@ -9,6 +9,7 @@
 0. [Which one do I want?](#which-font)
  0. [TL;DR](#tldr)
  0. [Explanation](#explanation)
+0. [Why do some of the fonts names appear incorrect or appear to have typos?](#why-do-some-of-the-fonts-names-appear-incorrect-or-appear-to-have-typos)
 0. [Why isn't my favorite font included (already patched)?](#why-isnt-my-favorite-font-included)
 
 ---
@@ -38,6 +39,10 @@ Once you narrow done your font choice of family (Droid Sans, Inconsolata, etc) a
   * This attempts to contain _all permutations_ of the various glyphs. E.g. You want the font with only [Octicons][octicons] or you want the font with just [Font Awesome][font-awesome] and [Devicons][vorillaz-devicons]. The goal is to provide every combination possible in this folder.
  * minimal
   * This contains just the glyphs needed to use [vim-devicons][vim-devicons]. This is mostly provided for historical purposes. This might end up being removed at some point if it ends up causing too much confusion and/or providing little purpose in the grand scheme of things.
+
+## Why do some of the fonts names appear incorrect or appear to have typos?
+
+Some of the patched fonts are _intentionally _renamed due to license restrictions to comply with SIL Open Font License (OFL). In particular the [Reserved Font Names (RFNs)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web_fonts_and_RFNs#14cbfd4a)
 
 ## Why isn't my favorite font included?
 
