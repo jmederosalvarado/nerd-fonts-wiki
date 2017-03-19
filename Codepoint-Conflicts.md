@@ -15,3 +15,17 @@
 * Present in the default 'complete' set of patched fonts
 
 ![image](https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/screenshots/v1.0.x/fontforge-glyph-set-octicons.png)
+
+## Font Linux & Font Awesome
+
+* Because these two iconic fonts have some overlapping codepoints one of them has to "win". Right now we have chosen to move Font Linux glyphs to a new range.
+
+### Original Codepoints
+
+* todo
+
+### New Codepoints
+
+* Present in the default 'complete' set of patched fonts
+
+* todo
