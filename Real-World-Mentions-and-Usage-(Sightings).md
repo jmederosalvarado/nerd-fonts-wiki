@@ -53,6 +53,7 @@ Real World mentions and usage of the Nerd Fonts project.
 * [xontrib-powerline](https://pypi.python.org/pypi/xontrib-powerline/0.3.0)
 * [crazy-canux/pydevops](https://github.com/crazy-canux/pydevops)
 * [awesome-fonts](https://github.com/brabadu/awesome-fonts)
+* [devicons-shell](https://github.com/ryanoasis/devicons-shell)
 
 ## Packages
 
