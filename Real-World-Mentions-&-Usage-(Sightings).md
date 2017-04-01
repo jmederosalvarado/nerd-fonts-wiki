@@ -29,6 +29,7 @@ Real World mentions and usage of the Nerd Fonts project.
 * [Ricty + Powerline + NERDFonts](http://do.kalaclism.com/items/6789873727d34f38b71ff1c0143b5fc6)
 * [Ricty + Powerline + NERD Fonts](http://notes.nyarla.net/items/98958c4cb249465aa0abc6dd7764c220)
 * [Decorate NERDTree](http://pueue.com/2017-beautify_nerdtree/)
+* [安装Vim插件vim-airline](http://www.jianshu.com/p/310368097c75)
 
 ## Posts
 
