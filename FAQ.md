@@ -20,7 +20,7 @@ see [Screenshots](wiki/screenshots)
 
 ## How do I report issues? 
 
-see: [Reporting Issues](wiki/how-to-report-issues)
+see: [Reporting Issues](wiki/reporting-issues)
 
 ## Which font?
 
