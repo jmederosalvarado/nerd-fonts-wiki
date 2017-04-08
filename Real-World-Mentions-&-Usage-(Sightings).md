@@ -80,3 +80,4 @@ Real World mentions and usage of the Nerd Fonts project.
 
 * [Urxvt and zsh with Zim and powerline font displays boxes](https://www.reddit.com/r/linux4noobs/comments/4eepf1/urxvt_and_zsh_with_zim_and_powerline_font/)
 * [Monospace Font Favorites](http://charlesleifer.com/blog/monospace-font-favorites/)
+* [t-vim Wiki](https://github.com/tracyone/t-vim)
