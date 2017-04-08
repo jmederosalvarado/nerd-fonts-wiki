@@ -46,7 +46,15 @@ Some of the patched fonts are _intentionally _renamed due to license restriction
 
 ## Why isn't my favorite font included?
 
-It is most likely due to the font not being free _or_ due to licensing reasons which prevent distributing or distributing modified versions. E.g., [Consolas][consolas] (proprietary), [Input Mono][input-mono] (license restriction), [PragmataPro][pragmatapro] (not free), etc. 
+It is most likely due to the font not being free _or_ due to licensing reasons which prevent distributing or distributing modified versions. 
+
+E.g.
+
+* [Input Mono][input-mono] (license restriction)
+  * Possibly coming with external hosting :)
+* [PragmataPro][pragmatapro] (not free)
+* [Consolas][consolas] (proprietary)
+
 
 Most fonts you can freely modify on your own so feel free to try patching them on your own :)
 
