@@ -1,6 +1,10 @@
 ### [Home](https://github.com/ryanoasis/nerd-fonts/wiki)
 
-### [FAQ](https://github.com/ryanoasis/nerd-fonts/wiki/FAQ)
+### [Help](https://github.com/ryanoasis/nerd-fonts/wiki/FAQ)
+
+* [FAQ](https://github.com/ryanoasis/nerd-fonts/wiki/FAQ)
+* [Reporting Issues](https://github.com/ryanoasis/nerd-fonts/wiki/Reporting-Issues)
+* [Gitter Chat](https://gitter.im/ryanoasis/nerd-fonts)
 
 ### [Codepoint Conflicts](https://github.com/ryanoasis/nerd-fonts/wiki/Codepoint-Conflicts)
 
