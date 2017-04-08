@@ -26,7 +26,7 @@ see: [Reporting Issues](wiki/reporting-issues)
 
 ### TL;DR
 
-0. Pick your font family and then select from the `'complete'` directory.
+* Pick your font family and then select from the `'complete'` directory.
   * Are you on Windows? Pick a font with the suffix `'Windows Compatible'`
   * Are you limited to mono fonts (because of your terminal, etc)? Pick a font with the suffix `'Mono'`
 
