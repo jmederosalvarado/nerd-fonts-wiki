@@ -30,7 +30,7 @@ Being its own project and repository adds a lot of benefits besides just separat
 
 * [FAQ](wiki/FAQ)
 * [Screenshots](wiki/screenshots)
-* [Reporting Issues](wiki/how-to-report-issues)
+* [Reporting Issues](wiki/Reporting-Issues)
 
 
 # Resources
