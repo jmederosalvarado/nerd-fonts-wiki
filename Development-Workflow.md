@@ -2,8 +2,15 @@
 	<img src="https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/images/nerd-fonts-logo.png" alt="Nerd Fonts" />
 </h1>
 
-
 ## KISS Workflow*
+
+> This describes the overall workflow and release methodology for the Nerd Fonts project. For specifics see the [Development Guide][]
+
+### Goals
+
+- Keep contributor(s) barrier to entry as low as possible
+- _"[Release early, release often][Release-early-release-often]"_
+- [KISS (Keep it simple, stupid)][KISS]
 
 ### Overview
 
@@ -25,6 +32,11 @@
 _*Based on [GitFlow][], [GitHub Flow][] and [a][gitflow-considered-harmful] [few][follow-up-to-gitflow-considered-harmful] [others][a-succesful-git-branching-model-considered-harmful] workflows_
 
 <!-- links -->
+
+[Development Guide]: https://github.com/ryanoasis/nerd-fonts/wiki/Development-Guide
+
+[Release-early-release-often]: https://en.wikipedia.org/wiki/Release_early,_release_often
+[KISS]: https://en.wikipedia.org/wiki/KISS_principle
 
 [GitFlow]: http://nvie.com/posts/a-successful-git-branching-model/
 [GitHub Flow]: http://scottchacon.com/2011/08/31/github-flow.html
