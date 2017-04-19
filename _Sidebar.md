@@ -16,7 +16,7 @@
 
 * [Why is this a thing?](https://github.com/ryanoasis/nerd-fonts/wiki/Project-Purpose#why-is-this-a-thing)
 
-### Development Guide
+### [Development Guide](https://github.com/ryanoasis/nerd-fonts/wiki/Development-Guide)
 
 * [Contributor Developer Setup](https://github.com/ryanoasis/nerd-fonts/wiki/Contributor-Developer-Setup)
 * [Contributing Guide](https://github.com/ryanoasis/nerd-fonts/blob/master/contributing.md)
