@@ -16,6 +16,9 @@
 
 * [Why is this a thing?](https://github.com/ryanoasis/nerd-fonts/wiki/Project-Purpose#why-is-this-a-thing)
 
-### [Contributor Developer Setup](https://github.com/ryanoasis/nerd-fonts/wiki/Contributor-Developer-Setup)
+### Development Guide
+
+* [Contributor Developer Setup](https://github.com/ryanoasis/nerd-fonts/wiki/Contributor-Developer-Setup)
+* [Development Workflow](https://github.com/ryanoasis/nerd-fonts/wiki/Development-Workflow)
 
 ### [Real World Mentions & Usage (Sightings)](https://github.com/ryanoasis/nerd-fonts/wiki/Real-World-Mentions-&-Usage-(Sightings))
