@@ -22,4 +22,12 @@
    2. Items/Issues not ready at this time do get to be in the official release
 
 
-_*Based on Gitflow and GitHub workflows_
+_*Based on [GitFlow][], [GitHub Flow][] and [a][gitflow-considered-harmful] [few][follow-up-to-gitflow-considered-harmful] [others][a-succesful-git-branching-model-considered-harmful] workflows_
+
+<!-- links -->
+
+[GitFlow]: http://nvie.com/posts/a-successful-git-branching-model/
+[GitHub Flow]: http://scottchacon.com/2011/08/31/github-flow.html
+[gitflow-considered-harmful]: http://endoflineblog.com/gitflow-considered-harmful
+[follow-up-to-gitflow-considered-harmful]: http://endoflineblog.com/follow-up-to-gitflow-considered-harmful
+[a-succesful-git-branching-model-considered-harmful]: http://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/
