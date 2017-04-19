@@ -19,6 +19,8 @@
 ### Development Guide
 
 * [Contributor Developer Setup](https://github.com/ryanoasis/nerd-fonts/wiki/Contributor-Developer-Setup)
+* [Contributing Guide](https://github.com/ryanoasis/nerd-fonts/blob/master/contributing.md)
 * [Development Workflow](https://github.com/ryanoasis/nerd-fonts/wiki/Development-Workflow)
+* [Pull Request Template](https://github.com/ryanoasis/nerd-fonts/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
 ### [Real World Mentions & Usage (Sightings)](https://github.com/ryanoasis/nerd-fonts/wiki/Real-World-Mentions-&-Usage-(Sightings))
