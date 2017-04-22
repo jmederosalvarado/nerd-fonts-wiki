@@ -19,7 +19,7 @@ http://NerdFonts.com
 
 #### Description
 
-:abcd: Iconic font aggregator, collection, and patcher: 37 patched fonts (7.1k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack
+:abcd: Iconic font aggregator, collection, and patcher: 37 patched fonts (71.4k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack
 
 #### Website
 
