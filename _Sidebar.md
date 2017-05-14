@@ -2,7 +2,7 @@
 
 ### [Help](https://github.com/ryanoasis/nerd-fonts/wiki/FAQ)
 
-* [FAQ](https://github.com/ryanoasis/nerd-fonts/wiki/FAQ)
+* [FAQ & Troubleshooting](https://github.com/ryanoasis/nerd-fonts/wiki/FAQ-and-Troubleshooting)
 * [Reporting Issues](https://github.com/ryanoasis/nerd-fonts/wiki/Reporting-Issues)
 * [Gitter Chat](https://gitter.im/ryanoasis/nerd-fonts)
 * [Terminal Emulators](https://github.com/ryanoasis/nerd-fonts/wiki/Terminal-Emulators)
