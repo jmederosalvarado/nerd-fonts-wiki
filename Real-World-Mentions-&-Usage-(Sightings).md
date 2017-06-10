@@ -5,6 +5,7 @@
 0. [News](#news)
 0. [Blog Posts](#blog-posts)
 0. [Posts](#posts)
+0. [Fonts](#fonts)
 0. [Other Projects](#other-projects)
 0. [Packages](#packages)
 0. [Help Requests](#help-requests)
@@ -39,6 +40,10 @@ Real World mentions and usage of the Nerd Fonts project.
 * [One Thing Well](http://onethingwell.org/post/141147540894/nerd-fonts)
 * http://b.hatena.ne.jp/entry/s/github.com/ryanoasis/nerd-fonts
 * https://tensortalk.com/posts/bhJ3xAGwgy6dQgaHJ/ryanoasis-nerd-fonts-collection-of-over-20-patched-fonts
+
+## Fonts
+
+* [Fabrizio Schiavi's PragmataPro font (since 0.825)](https://www.fsd.it/2017/05/02/pragmatapro-0-825-more-pros/)
 
 ## Other Projects
 
