@@ -60,6 +60,8 @@ Real World mentions and usage of the Nerd Fonts project.
 * [crazy-canux/pydevops](https://github.com/crazy-canux/pydevops)
 * [awesome-fonts](https://github.com/brabadu/awesome-fonts)
 * [devicons-shell](https://github.com/ryanoasis/devicons-shell)
+* [even-better-ls](https://github.com/illinoisjackson/even-better-ls)
+* [colorls](https://github.com/athityakumar/colorls)
 
 ## Packages
 
