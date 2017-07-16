@@ -28,18 +28,20 @@ see: [Reporting Issues](wiki/reporting-issues)
 ### TL;DR
 
 * Pick your font family and then select from the `'complete'` directory.
-  * Are you on Windows? Pick a font with the suffix `'Windows Compatible'`
-  * If you are limited to monospaced fonts (because of your terminal, etc) then pick a font with the `'Mono'` suffix. This denotes that the Nerd Font glyphs will be monospaced not necessarily that the entire font will be monospaced
+  * If you are on Windows pick a font with the `'Windows Compatible'` suffix.
+    * This includes specific tweaks to ensure the font works on Windows, in particular monospace identification and font name length limitations
+  * If you are limited to monospaced fonts (because of your terminal, etc) then pick a font with the `'Mono'` suffix.   
+    * This denotes that the Nerd Font glyphs will be monospaced not necessarily that the entire font will be monospaced
 
 ### Explanation
 
 Once you narrow done your font choice of family (Droid Sans, Inconsolata, etc) and style (bold, italic, etc) you are provided with 3 main folders choices:
  * complete
-  * This is most likely the one you want. It includes **all** of the glyphs from all of the glyph sets. Only caution here is that some fonts have glyphs in the _same_ code point so to include everything some had to be moved to alternate code points.
+   * This is most likely the one you want. It includes **all** of the glyphs from all of the glyph sets. Only caution here is that some fonts have glyphs in the _same_ code point so to include everything some had to be moved to alternate code points.
  * alternative
-  * This attempts to contain _all permutations_ of the various glyphs. E.g. You want the font with only [Octicons][octicons] or you want the font with just [Font Awesome][font-awesome] and [Devicons][vorillaz-devicons]. The goal is to provide every combination possible in this folder.
- * minimal
-  * This contains just the glyphs needed to use [vim-devicons][vim-devicons]. This is mostly provided for historical purposes. This might end up being removed at some point if it ends up causing too much confusion and/or providing little purpose in the grand scheme of things.
+   * This attempts to contain _all permutations_ of the various glyphs. E.g. You want the font with only [Octicons][octicons] or you want the font with just [Font Awesome][font-awesome] and [Devicons][vorillaz-devicons]. The goal is to provide every combination possible in this folder.
+ * minimal (deprecated) 
+   * This contains just the glyphs needed to use [vim-devicons][vim-devicons]. This is mostly provided for historical purposes. This might end up being removed at some point if it ends up causing too much confusion and/or providing little purpose in the grand scheme of things.
 
 ## Why do some of the fonts names appear incorrect or appear to have typos?
 
