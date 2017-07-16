@@ -35,13 +35,18 @@ see: [Reporting Issues](wiki/reporting-issues)
 
 ### Explanation
 
-Once you narrow done your font choice of family (Droid Sans, Inconsolata, etc) and style (bold, italic, etc) you are provided with 3 main folders choices:
- * complete
+Once you narrow down your font choice of family (`Droid Sans`, `Inconsolata`, etc) and style (`bold`, `italic`, etc) you have 2 main choices:
+
+#### `Option 1: Download already patched font`
+
+ * download an already patched font from the `complete` folder
    * This is most likely the one you want. It includes **all** of the glyphs from all of the glyph sets. Only caution here is that some fonts have glyphs in the _same_ code point so to include everything some had to be moved to alternate code points.
- * alternative
-   * This attempts to contain _all permutations_ of the various glyphs. E.g. You want the font with only [Octicons][octicons] or you want the font with just [Font Awesome][font-awesome] and [Devicons][vorillaz-devicons]. The goal is to provide every combination possible in this folder.
- * minimal (deprecated) 
-   * This contains just the glyphs needed to use [vim-devicons][vim-devicons]. This is mostly provided for historical purposes. This might end up being removed at some point if it ends up causing too much confusion and/or providing little purpose in the grand scheme of things.
+
+#### `Option 2: Patch your own font`
+
+ * patch your own variations with the various options provided by the font patcher (see each font's readme for full list of combinations available)
+   * This is the option you want if the font you use is _not_ already included or you want maximum control of what's included
+   * This contains a list of _all permutations_ of the various glyphs. E.g. You want the font with only [Octicons][octicons] or you want the font with just [Font Awesome][font-awesome] and [Devicons][vorillaz-devicons]. The goal is to provide every combination possible in this folder.
 
 ## Why do some of the fonts names appear incorrect or appear to have typos?
 
