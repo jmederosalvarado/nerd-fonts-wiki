@@ -33,6 +33,7 @@
 
 * ShellCheck
 * Pyflakes (PEP8 compliance)
+* [Pandoc][Pandoc-installing]
 
 ## Base Nerd Fonts Development
 
@@ -180,3 +181,9 @@ cause: harfbuzz not installed or not installed correctly
 
 * http://www.freetype.org/ttfautohint/doc/ttfautohint.html
 * https://www.freetype.org/ttfautohint/doc/ttfautohint.html#compilation-and-installation
+
+
+<!-- Reference Links -->
+
+[Pandoc-installing]:http://pandoc.org/installing.html
+
