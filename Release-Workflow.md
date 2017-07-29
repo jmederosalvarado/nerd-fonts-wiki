@@ -11,6 +11,26 @@
 - Execute `release.sh` script
 ### `Update changelog`
 - Manually update the `changelog.md` with all changes
+  - see most recent release for example of the format: https://github.com/ryanoasis/nerd-fonts/releases
+  - make sure to credit each Pull Request by referencing the person with @ followed by their GitHub id
+  - the following is a template example:
+```
+## v<version>
+### New Features
+
+  - Added xyz (fixes #101)
+  - Added ...
+
+### Updates / Improvements
+
+  - Updated xyz (fixes #101) (PR #101 @someone)
+  - ...
+
+### Fixes
+
+  - Fixed xyz (fixes #101) (PR #101 @someone)
+  - ...
+```
 - see diff comparison from last release vs master to ensure nothing is missed: `https://github.com/ryanoasis/nerd-fonts/compare/latest-release-branch...master`
   - e.g. https://github.com/ryanoasis/nerd-fonts/compare/1.0.0...master
 ### `Update readme`
