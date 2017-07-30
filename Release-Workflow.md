@@ -8,7 +8,7 @@
 - Merge latest Pull Requests into `master` that are for the latest milestone
 - Pull Requests and Bug Fixes go directly into `master` after basic testing
 ### `Run release script`
-- Execute `release.sh` script
+- Execute `release.sh <version>`
 ### `Update changelog`
 - Manually update the `changelog.md` with all changes
   - see most recent release for example of the format: https://github.com/ryanoasis/nerd-fonts/releases
