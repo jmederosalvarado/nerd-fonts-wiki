@@ -7,8 +7,10 @@
 ### `Merge latest PRs`
 - Merge latest Pull Requests into `master` that are for the latest milestone
 - Pull Requests and Bug Fixes go directly into `master` after basic testing
+
 ### `Run release script`
 - Execute `release.sh <version>`
+
 ### `Update changelog`
 - Manually update the `changelog.md` with all changes
   - see most recent release for example of the format: https://github.com/ryanoasis/nerd-fonts/releases
@@ -33,6 +35,7 @@
 ```
 - see diff comparison from last release vs master to ensure nothing is missed: `https://github.com/ryanoasis/nerd-fonts/compare/latest-release-branch...master`
   - e.g. https://github.com/ryanoasis/nerd-fonts/compare/1.0.0...master
+
 ### `Update readme`
 - Update the `readme.md`
   - If a new font was added, add it to the table of [Patched Fonts][]
@@ -43,13 +46,16 @@
       * "Over `X` glyphs/icons combined" -> manual process for now (@todo)
   * Update the "counts" in the [Combinations Section][]
     * Again, get this info from the "all patcher"
+  * Update the `font-patcher` help output section under "Patch Your Own Font" if needed
+
 `Create release on GitHub`
 - Create new release on GitHub and paste latest release details from `changelog.md`
+
 ### `Run upload script`
 - Execute `upload-archives.sh` to upload font archives to the latest release
+
 ### `Verify uploaded files`
 - Verify font archives are showing for latest release
-
 
 <!-- links -->
 
