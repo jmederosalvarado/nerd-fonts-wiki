@@ -12,6 +12,7 @@
 0. [Why do some of the fonts names appear incorrect or appear to have typos?](#why-do-some-of-the-fonts-names-appear-incorrect-or-appear-to-have-typos)
 0. [Why isn't my favorite font included (already patched)?](#why-isnt-my-favorite-font-included)
 0. [Error: munmap_chunk(): invalid pointer](#munmap_chunk-invalid-pointer)
+0. [segmentation fault running patcher](#segmentation-fault-running-python-patcher)
 
 ---
 
