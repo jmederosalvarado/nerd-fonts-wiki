@@ -82,6 +82,21 @@ Original Issue Reference: [`#129`][issue-129]
 - `Option 2:` Update to the latest FontForge version (issue has been fixed in recent versions) [`ref`][issue-129-b]
 - `Option 3:` Install `aur/python35` instead of downgrading Python [`ref`][issue-129-c]
 
+## segmentation fault running python patcher
+
+### Issue
+
+`segmentation fault`
+
+For the original details on the solution: [comment on #8][issue-8-1]
+
+Original Issue Reference: [`#8`][issue-8]
+
+### Solutions
+
+- `Option 1:` Update FontForge and/or Python 2.x on macOS (OSX)
+- `Option 2:` Patch font on Linux
+
 [vim-devicons]:https://github.com/ryanoasis/vim-devicons
 [vorillaz-devicons]:http://vorillaz.github.io/devicons/
 [font-awesome]:https://github.com/FortAwesome/Font-Awesome
@@ -98,3 +113,5 @@ Original Issue Reference: [`#129`][issue-129]
 [issue-129-a]:https://github.com/fontforge/fontforge/issues/2992#issuecomment-272713810
 [issue-129-b]:https://github.com/fontforge/fontforge/issues/2992#issuecomment-274091254
 [issue-129-c]:https://github.com/fontforge/fontforge/pull/3046
+[issue-8]:https://github.com/ryanoasis/nerd-fonts/issues/8
+[issue-8-1]:https://github.com/ryanoasis/nerd-fonts/issues/8#issuecomment-106804334
