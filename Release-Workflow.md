@@ -70,6 +70,7 @@
 
 ### `Run upload script`
 - Execute `upload-archives.sh` to upload font archives to the latest release
+  - with no parameter given it will upload to the 'latest' release via GitHub API
 
 ### `Verify uploaded files`
 - Verify font archives are showing for latest release
