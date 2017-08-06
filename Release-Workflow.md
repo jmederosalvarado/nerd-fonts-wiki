@@ -48,7 +48,7 @@
     * Again, get this info from the "all patcher"
   * Update the `font-patcher` help output section under "Patch Your Own Font" if needed
 
-`Create release on GitHub`
+### `Create release on GitHub`
 - Create new release on GitHub and paste latest release details from `changelog.md`
 
 ### `Run upload script`
