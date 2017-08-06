@@ -49,7 +49,24 @@
   * Update the `font-patcher` help output section under "Patch Your Own Font" if needed
 
 ### `Create release on GitHub`
-- Create new release on GitHub and paste latest release details from `changelog.md`
+- verify `master` branch has all changes commited and pushed
+  - `git status -s`
+- update `master` from remote
+  - `git pull origin master`
+- create the new branch
+  - verify what the version should be by double checking remote branches
+    - `git branch -r | grep '[0-9]\+\.[0-9]\+\.[0-9]\+$'`
+  - `git checkout -b <semver_based_branch_name>`
+- push the new branch
+  - `git push -u origin <semver_based_branch_name>`
+- create tag
+  - "vMAJOR.MINOR.PATCH"
+  - i.e. same as branch name but with prefixed with a 'v'
+  - e.g. `git tag v1.5.3`
+- push latest tags
+  - `git push --tags`
+- Create new release on GitHub
+  - copy and paste latest release details from `changelog.md` into release notes
 
 ### `Run upload script`
 - Execute `upload-archives.sh` to upload font archives to the latest release
