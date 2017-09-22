@@ -10,6 +10,7 @@
    - [TL;DR](#tldr)
    - [Explanation](#explanation)
 0. [Why do some of the fonts names appear incorrect or appear to have typos?](#why-do-some-of-the-fonts-names-appear-incorrect-or-appear-to-have-typos)
+0. [What do these acronym variations in the font name mean: `LG`, `L`, `M`, `S`, `DZ`, `SZ`?](#what-do-these-acronym-variations-in-the-font-name-mean-lg-l-m-s-dz-sz)
 0. [Why isn't my favorite font included (already patched)?](#why-isnt-my-favorite-font-included)
 0. [Error: munmap_chunk(): invalid pointer](#munmap_chunk-invalid-pointer)
 0. [segmentation fault running patcher](#segmentation-fault-running-python-patcher)
@@ -52,6 +53,30 @@ Once you narrow down your font choice of family (`Droid Sans`, `Inconsolata`, et
 ## Why do some of the fonts names appear incorrect or appear to have typos?
 
 Some of the patched fonts are _intentionally _renamed due to license restrictions to comply with SIL Open Font License (OFL). In particular the [Reserved Font Names (RFNs)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web_fonts_and_RFNs#14cbfd4a)
+
+## What do these acronym variations in the font name mean: `LG`, `L`, `M`, `S`, `DZ`, `SZ`?
+
+- LG - Line Gap
+- L - Large
+- M - Medium
+- S - Small
+- DZ - Dotted Zero
+- SZ - Slashed Zero
+
+This particularly applies to Meslo at the moment:
+
+> Meslo has changed it’s name to Meslo LG which now includes three variants: 
+small, medium and large.
+>
+> LG stands for Line Gap, so there’s one variant for smaller vertical line spacing, 
+more towards Apple’s Menlo, a normal line gap (which equals Meslo v0.1) and 
+a large gap, which is more than twice the space of Apple’s Menlo.
+>
+> In addition to Regular, there’s Italic, Bold and Bold Italic font styles 
+included for each LG variant.
+
+source: https://github.com/andreberg/Meslo-Font
+
 
 ## Why isn't my favorite font included?
 
