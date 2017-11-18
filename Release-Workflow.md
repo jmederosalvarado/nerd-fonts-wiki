@@ -9,7 +9,15 @@
 - Pull Requests and Bug Fixes go directly into `master` after basic testing
 
 ### `Run release script`
-- Execute `release.sh <version>`
+- Change to scripts dir (@todo fix reliance on dir)
+  ```sh
+  # todo fixme
+  cd bin/scripts
+  ```
+- Execute script
+  ```sh
+  ./release.sh <version>
+  ```
 
 ### `Update changelog`
 - Manually update the `changelog.md` with all changes
