@@ -86,7 +86,8 @@
 ### `Update website (github pages)`
 - Checkout branch: [`gh-pages`](https://github.com/ryanoasis/nerd-fonts/tree/gh-pages)
 - Update the [download links](https://github.com/ryanoasis/nerd-fonts/blob/gh-pages/_posts/2017-01-03-downloads.md)
--- If there are new fonts add the new links
+  - If there are new fonts add the new links
+- Update the [release notes](https://github.com/ryanoasis/nerd-fonts/blob/gh-pages/_posts/2017-01-06-release.md)
 
 <!-- links -->
 
