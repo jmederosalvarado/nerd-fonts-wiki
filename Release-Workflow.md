@@ -88,6 +88,8 @@
 - Update the [download links](https://github.com/ryanoasis/nerd-fonts/blob/gh-pages/_posts/2017-01-03-downloads.md)
   - If there are new fonts add the new links
 - Update the [release notes](https://github.com/ryanoasis/nerd-fonts/blob/gh-pages/_posts/2017-01-06-release.md)
+  - Insert new release notes from [changelog](https://github.com/ryanoasis/nerd-fonts/blob/master/changelog.md) to the top
+  - Remove 'open' attribute from previous release container div
 
 <!-- links -->
 
