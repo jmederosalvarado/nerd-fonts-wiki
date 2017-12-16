@@ -9,7 +9,7 @@
 0. [Which font do I want?](#which-font)
    - [TL;DR](#tldr)
    - [Explanation](#explanation)
-0. [Why do the glyphs look small, squished, or not full width?](why-do-the-glyphs-look-small-squished-or-not-full-width)
+0. [Why do the glyphs look small, squished, or not full width?](#why-do-the-glyphs-look-small-squished-or-not-full-width)
 0. [Why do some of the fonts names appear incorrect or appear to have typos?](#why-do-some-of-the-fonts-names-appear-incorrect-or-appear-to-have-typos)
 0. [What do these acronym variations in the font name mean: `LG`, `L`, `M`, `S`, `DZ`, `SZ`?](#what-do-these-acronym-variations-in-the-font-name-mean-lg-l-m-s-dz-sz)
 0. [Why isn't my favorite font included (already patched)?](#why-isnt-my-favorite-font-included)
