@@ -61,7 +61,7 @@ Issue references: [#155][issue-155], [#37][issue-37]
 
 ## Why do some of the fonts names appear incorrect or appear to have typos?
 
-Some of the patched fonts are _intentionally _renamed due to license restrictions to comply with SIL Open Font License (OFL). In particular the [Reserved Font Names (RFNs)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web_fonts_and_RFNs#14cbfd4a)
+Some of the patched fonts are _intentionally_ renamed due to license restrictions to comply with SIL Open Font License (OFL). In particular the [Reserved Font Names (RFNs)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web_fonts_and_RFNs#14cbfd4a)
 
 ## What do these acronym variations in the font name mean: `LG`, `L`, `M`, `S`, `DZ`, `SZ`?
 
