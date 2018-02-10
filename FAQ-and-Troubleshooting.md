@@ -9,6 +9,7 @@
 0. [Which font do I want?](#which-font)
    - [TL;DR](#tldr)
    - [Explanation](#explanation)
+0. [How do I use glyphs in my terminal](#how-do-i-use-glyphs-in-my-terminal)
 0. [Why do the glyphs look small, squished, or not full width?](#why-do-the-glyphs-look-small-squished-or-not-full-width)
 0. [Why do some of the fonts names appear incorrect or appear to have typos?](#why-do-some-of-the-fonts-names-appear-incorrect-or-appear-to-have-typos)
 0. [What do these acronym variations in the font name mean: `LG`, `L`, `M`, `S`, `DZ`, `SZ`?](#what-do-these-acronym-variations-in-the-font-name-mean-lg-l-m-s-dz-sz)
@@ -50,6 +51,12 @@ Once you narrow down your font choice of family (`Droid Sans`, `Inconsolata`, et
  * patch your own variations with the various options provided by the font patcher (see each font's readme for full list of combinations available)
    * This is the option you want if the font you use is _not_ already included or you want maximum control of what's included
    * This contains a list of _all permutations_ of the various glyphs. E.g. You want the font with only [Octicons][octicons] or you want the font with just [Font Awesome][font-awesome] and [Devicons][vorillaz-devicons]. The goal is to provide every combination possible in this folder.
+
+## How do I use glyphs in my terminal?
+
+```sh
+echo $'\ue62b'
+```
 
 ## Why do the glyphs look small, squished, or not full width?
 
