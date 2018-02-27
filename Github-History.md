@@ -57,3 +57,23 @@ http://NerdFonts.com
 #### Website
 
 http://NerdFonts.com
+
+### Since ??? 2018 (Release 1.3 release)
+
+#### Description
+
+:abcd: Iconic font aggregator, collection, and patcher: 39 patched fonts (87k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack
+
+#### Website
+
+https://NerdFonts.com
+
+### Since February 2018 (Release 2.0 pre-release)
+
+#### Description
+
+:abcd: Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
+
+#### Website
+
+https://NerdFonts.com
