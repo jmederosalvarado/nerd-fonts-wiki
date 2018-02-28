@@ -19,6 +19,7 @@ Real World mentions and usage of the Nerd Fonts project.
 ## News
 
 * [Hacker News / Nerd-Fonts – Patched Fonts for Vim](https://news.ycombinator.com/item?id=11274440)
+* [15 Interesting Javascript and CSS Libraries for February 2018](https://tutorialzine.com/2018/02/15-interesting-javascript-and-css-libraries-for-february-2018)
 
 ## Blog Posts
 
