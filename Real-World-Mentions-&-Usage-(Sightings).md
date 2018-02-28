@@ -63,6 +63,7 @@ Real World mentions and usage of the Nerd Fonts project.
 * [devicons-shell](https://github.com/ryanoasis/devicons-shell)
 * [even-better-ls](https://github.com/illinoisjackson/even-better-ls)
 * [colorls](https://github.com/athityakumar/colorls)
+* [astrality](https://pypi.python.org/pypi/astrality/0.4.2)
 
 ## Packages
 
