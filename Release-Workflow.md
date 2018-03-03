@@ -44,9 +44,46 @@
 - see diff comparison from last release vs master to ensure nothing is missed: `https://github.com/ryanoasis/nerd-fonts/compare/latest-release-branch...master`
   - e.g. https://github.com/ryanoasis/nerd-fonts/compare/1.0.0...master
 
+### `Update the Sankey Diagram (if glyph changes)`
+
+- Navigate to http://sankeymatic.com/build/
+- Enter the list of Flows, in the correct format. e.g. `Nerd Fonts [#] Glyph Set Name`
+```
+Nerd Fonts [7] Powerline Symbols
+Nerd Fonts [30] Powerline Extra Symbols
+Nerd Fonts [675] Font Awesome
+Nerd Fonts [170] Font Awesome Extension
+Nerd Fonts [197] Devicons
+Nerd Fonts [228] Weather Icons
+Nerd Fonts [53] Seti UI + Custom
+Nerd Fonts [172] Octicons
+Nerd Fonts [29] Font Linux
+Nerd Fonts [5] IEC Power Symbols
+Nerd Fonts [8] Pomicons
+Nerd Fonts [2119] Material Design
+```
+- Use the following settings
+  - for 'Size, Spacing & Shape:'
+    - Use all defaults, except
+      - for 'curviness': max "("
+      - for 'Vertical Space between Nodes': 20px
+      - for 'node width': '20px'
+  - for 'Colors:'
+    - for 'Node Colors: Use theme:' "A"
+  - "Labels & Units..."
+    - Use all defaults (used to use 'mono')
+    - 'Units: suffix' Use (with a leading space): ' icons'
+  - "Advanced"
+    - Select "Reverse the graph (flow right-to-left)"
+  - Export as 1x (basic) for PNG or just SVG
+
+
 ### `Update readme`
 - Update the `readme.md`
   - If a new font was added, add it to the table of [Patched Fonts][]
+  - If any new glyphs or glyph sets were added
+    - Update individual glyph tables
+    - Use an updated Sankey Diagram
   * Update the "counts" in the [Features Section][]
     * You can get this information by simply passing a second param to the "all patcher": `./gotta-patch-em-all-font-patcher\!.sh "" info`
       * "`X` already patched font families" -> Give exact number from 'typefaces' line
