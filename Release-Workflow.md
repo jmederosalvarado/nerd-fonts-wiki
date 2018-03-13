@@ -128,6 +128,14 @@ Nerd Fonts [2119] Material Design
   - Insert new release notes from [changelog](https://github.com/ryanoasis/nerd-fonts/blob/master/changelog.md) to the top
   - Remove 'open' attribute from previous release container div
 
+## Ad hoc updating of the Glyph-only fonts
+```sh
+./font-patcher -ext ttf -out ./src/glyphs/ --complete ./src/glyphs/Symbols-1000-em\ Nerd\ Font\ Complete.ttf
+mv src/glyphs/Symbols-1000-em\ Nerd\ Font\ Complete\ Nerd\ Font\ Complete.ttf src/glyphs/Symbols-1000-em\ Nerd\ Font\ Complete.ttf
+./font-patcher -ext ttf -out ./src/glyphs/ --complete ./src/glyphs/Symbols-2048-em\ Nerd\ Font\ Complete.ttf
+mv src/glyphs/Symbols-2048-em\ Nerd\ Font\ Complete\ Nerd\ Font\ Complete.ttf src/glyphs/Symbols-2048-em\ Nerd\ Font\ Complete.ttf
+```
+
 <!-- links -->
 
 [pulls]: https://github.com/ryanoasis/nerd-fonts/pulls
