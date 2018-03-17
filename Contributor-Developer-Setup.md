@@ -20,30 +20,30 @@
 
 * The basics of what you need to get up and running :)
 
-## Prerequisites
+# Prerequisites
 
-### Required
+## Required
 
 * Git
 * FontForge
 * FontForge python bindings
 * Python 2 and/or Python 3
 
-### Highly Recommended
+## Highly Recommended
 
 * ShellCheck
 * Pyflakes (PEP8 compliance)
 * [Pandoc][Pandoc-installing]
 
-## Base Nerd Fonts Development
+# Base Nerd Fonts Development
 
 * What you need to contribute to the _core_ of Nerd Fonts
 
-### OSX
+## OSX
 
 todo
 
-### Linux
+## Linux
 
 * Download and install Python if not already installed: http://docs.python-guide.org/en/latest/starting/install/linux/
   * check `python --version`
@@ -54,33 +54,51 @@ todo
 * Download and install FontForge module (FontForge Python bindings)
   * e.g. on Linux Debian or Ubuntu: `sudo apt-get install python-fontforge`
 
-### Windows
+## Windows
 
 * Download and install Python (latest 2.x or 3.x should be fine): https://www.python.org/downloads/windows/
 * Download and install FontForge: http://fontforge.github.io/en-US/downloads/windows-dl/
 * Download and install Cygwin: https://cygwin.com/install.html
 
-## Hack font specific Development
+# Hack font specific Development
 
 * What you need to contribute to the _Hack specific portion_ of Nerd Fonts
 
-### OSX
+## OSX
 
 todo
 
-### Windows
+## Windows
 
 * Download and install ttfautohint: https://www.freetype.org/ttfautohint/
 
-### Linux
+## Linux
 
 * FreeType
 * Harfbuzz
 * ttfautohint
 
+### Build from source with Script from Hack Repo
+
+- Pros: A lot easier and faster
+- Cons: Not as much fine grained control
+
+```sh
+curl https://raw.githubusercontent.com/source-foundry/Hack/master/tools/scripts/install/ttfautohint-build.sh --output ~/ttfautohint-build.sh
+chmod 770 ~/ttfautohint-build.sh
+cd ~
+sudo ./ttfautohint-build.sh
+# Add the bin to your path
+```
+
+### Build each dependency individually ad hoc
+
+- Pros: More control and better understanding of what is getting installed and setup
+- Cons: more tedious
+
 #### Build FreeType from source
 
-```
+```sh
 wget http://downloads.sourceforge.net/project/freetype/freetype2/2.7/freetype-2.7.tar.gz
 tar -zxf freetype-2.7.tar.gz
 cd freetype-2.7
@@ -91,7 +109,7 @@ sudo make install
 
 #### Build Harfbuzz from source
 
-```
+```sh
 wget http://www.freedesktop.org/software/harfbuzz/release/harfbuzz-1.3.4.tar.bz2
 tar -xjf harfbuzz-1.3.4.tar.bz2
 cd harfbuzz-1.3.4
@@ -104,13 +122,13 @@ sudo make install
 
 * if you ran into an issue where a compiler is needed you will probably have to start over with the config but first run: `make distclean`
 
-```
+```sh
 sudo apt install g++
 ```
 
 #### Build ttfautohint from source
 
-```
+```sh
 wget http://download.savannah.gnu.org/releases/freetype/ttfautohint-1.6.tar.gz
 tar -zxf ttfautohint-1.6.tar.gz
 cd ttfautohint-1.6
@@ -118,15 +136,15 @@ cd ttfautohint-1.6
 make
 sudo make install
 ```
-###### C++11 compiler
+##### C++11 compiler
 
 * if you get an error during `make` for ttfautohint: `configure: error: *** A compiler with support for C++11 language features is required.`
 
 Then install compiler such as `g++` (shown above) then re-run configure & make, etc
 
-##### Verify the version
+#### Verify the version
 
-```
+```sh
 ttfautohint --version
 ttfautohint 1.6
 ```
@@ -135,7 +153,7 @@ ttfautohint 1.6
 
 ### Adhoc test autohint
 
-```
+```sh
 # cd into Nerd Fonts root directory
 ttfautohint -l 4 -r 80 -G 350 -x 0 -H 181 -D latn -f latn -w G -W -t -X "" -I -m "bin/scripts/Hack/Hack-Regular-TA.txt" src/unpatched-fonts/Hack/Regular/Hack-Regular.ttf temp/Hack-Nerd-Font-autohinted.ttf
 ```
