@@ -136,7 +136,8 @@ ttfautohint 1.6
 ### Adhoc test autohint
 
 ```
-ttfautohint -l 4 -r 80 -G 350 -x 0 -H 181 -D latn -f latn -w G -W -t -X "" -I -m "bin/scripts/Hack/Hack-Regular-TA.txt" Hack\ Regular\ Nerd\ Font\ Complete.ttf.tmp Hack\ Regular\ Nerd\ Font\ Complete.ttf
+# cd into Nerd Fonts root directory
+ttfautohint -l 4 -r 80 -G 350 -x 0 -H 181 -D latn -f latn -w G -W -t -X "" -I -m "bin/scripts/Hack/Hack-Regular-TA.txt" src/unpatched-fonts/Hack/Regular/Hack-Regular.ttf temp/Hack-Nerd-Font-autohinted.ttf
 ```
 
 ## Troubleshooting
