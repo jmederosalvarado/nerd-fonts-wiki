@@ -77,6 +77,7 @@ todo
 * FreeType
 * Harfbuzz
 * ttfautohint
+* fonttools
 
 ### Build from source with Script from Hack Repo
 
@@ -84,6 +85,7 @@ todo
 - Cons: Not as much fine grained control
 
 ```sh
+pip install fonttools
 curl https://raw.githubusercontent.com/source-foundry/Hack/master/tools/scripts/install/ttfautohint-build.sh --output ~/ttfautohint-build.sh
 chmod 770 ~/ttfautohint-build.sh
 cd ~
@@ -95,6 +97,12 @@ sudo ./ttfautohint-build.sh
 
 - Pros: More control and better understanding of what is getting installed and setup
 - Cons: more tedious
+
+#### fonttools
+
+```sh
+pip install fonttools
+```
 
 #### Build FreeType from source
 
@@ -156,6 +164,14 @@ ttfautohint 1.6
 ```sh
 # cd into Nerd Fonts root directory
 ttfautohint -l 4 -r 80 -G 350 -x 0 -H 181 -D latn -f latn -w G -W -t -X "" -I -m "bin/scripts/Hack/Hack-Regular-TA.txt" src/unpatched-fonts/Hack/Regular/Hack-Regular.ttf temp/Hack-Nerd-Font-autohinted.ttf
+```
+
+### We can run post build processing fixes on Hack
+
+```sh
+# cd into Nerd Fonts root directory
+./font-patcher temp/Hack-Nerd-Font-autohinted.ttf
+# spot check font, open in FontForge, etc.
 ```
 
 ## Troubleshooting
