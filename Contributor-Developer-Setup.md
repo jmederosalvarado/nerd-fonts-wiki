@@ -6,7 +6,7 @@
   0. [Required](#required)
   0. [Highly Recommended](#highly-recommended)
 0. [Base Nerd Fonts Development](#base-nerd-fonts-development)
-0. [Hack (Knack) font specific](#hack-knack-font-specific-development)
+0. [Hack font specific](#hack-font-specific-development)
   0. [OSX](#osx)
   0. [Linux](#linux)
     0. [FreeType](#build-freetype-from-source)
@@ -60,9 +60,9 @@ todo
 * Download and install FontForge: http://fontforge.github.io/en-US/downloads/windows-dl/
 * Download and install Cygwin: https://cygwin.com/install.html
 
-## Hack (Knack) font specific Development
+## Hack font specific Development
 
-* What you need to contribute to the _Hack (Knack) specific portion_ of Nerd Fonts
+* What you need to contribute to the _Hack specific portion_ of Nerd Fonts
 
 ### OSX
 
@@ -136,7 +136,7 @@ ttfautohint 1.6
 ### Adhoc test autohint
 
 ```
-ttfautohint -l 4 -r 80 -G 350 -x 0 -H 181 -D latn -f latn -w G -W -t -X "" -I -m "bin/scripts/Hack/Hack-Regular-TA.txt" Knack\ Regular\ Nerd\ Font\ Complete.ttf.tmp Knack\ Regular\ Nerd\ Font\ Complete.ttf
+ttfautohint -l 4 -r 80 -G 350 -x 0 -H 181 -D latn -f latn -w G -W -t -X "" -I -m "bin/scripts/Hack/Hack-Regular-TA.txt" Hack\ Regular\ Nerd\ Font\ Complete.ttf.tmp Hack\ Regular\ Nerd\ Font\ Complete.ttf
 ```
 
 ## Troubleshooting
