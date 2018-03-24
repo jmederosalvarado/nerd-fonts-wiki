@@ -130,10 +130,8 @@ Nerd Fonts [2119] Material Design
 
 ## Ad hoc updating of the Glyph-only fonts
 ```sh
-./font-patcher -ext ttf -out ./src/glyphs/ --complete ./src/glyphs/Symbols-1000-em\ Nerd\ Font\ Complete.ttf
-mv src/glyphs/Symbols-1000-em\ Nerd\ Font\ Complete\ Nerd\ Font\ Complete.ttf src/glyphs/Symbols-1000-em\ Nerd\ Font\ Complete.ttf
-./font-patcher -ext ttf -out ./src/glyphs/ --complete ./src/glyphs/Symbols-2048-em\ Nerd\ Font\ Complete.ttf
-mv src/glyphs/Symbols-2048-em\ Nerd\ Font\ Complete\ Nerd\ Font\ Complete.ttf src/glyphs/Symbols-2048-em\ Nerd\ Font\ Complete.ttf
+./font-patcher -ext ttf -out ./src/glyphs/ --complete ./src/glyphs/NerdFontsSymbols\ 1000\ EM\ Nerd\ Font\ Complete\ Blank.sfd
+./font-patcher -ext ttf -out ./src/glyphs/ --complete ./src/glyphs/NerdFontsSymbols\ 2048\ EM\ Nerd\ Font\ Complete\ Blank.sfd
 ```
 
 <!-- links -->
