@@ -30,7 +30,7 @@ Being its own project and repository adds a lot of benefits besides just separat
 
 # Help
 
-* [FAQ](wiki/FAQ)
+* [FAQ](https://github.com/ryanoasis/nerd-fonts/wiki/FAQ-and-Troubleshooting)
 * [Screenshots](wiki/screenshots)
 * [Reporting Issues](wiki/Reporting-Issues)
 
