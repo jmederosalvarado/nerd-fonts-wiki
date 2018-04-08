@@ -120,7 +120,14 @@ Nerd Fonts [2119] Material Design
 ### `Verify uploaded files`
 - Verify font archives are showing for latest release
 
-### `Update website (github pages)`
+### `Update `[`All Contributors`](https://github.com/kentcdodds/all-contributors)
+- run: `all-contributors check`
+- ignore bots and compare differences between this release and the last, [for example](https://github.com/ryanoasis/nerd-fonts/compare/1.2.0...2.0.0)
+- add or update the contributors with, e.g.: `all-contributors add <user> code,doc`
+- Spot check the changeset difference for issues
+- Update the [NerdFonts.com Website][website]
+
+### `Update the `[`Website`][website]` (GitHub pages)`
 - Checkout branch: [`gh-pages`](https://github.com/ryanoasis/nerd-fonts/tree/gh-pages)
 - Update the [download links](https://github.com/ryanoasis/nerd-fonts/blob/gh-pages/_posts/2017-01-03-downloads.md)
   - If there are new fonts add the new links
@@ -140,3 +147,4 @@ Nerd Fonts [2119] Material Design
 [Features Section]: https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md#features
 [Combinations Section]: https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md#combinations
 [Patched Fonts]: https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md#patched-fonts
+[website]: https://nerdfonts.com
