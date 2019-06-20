@@ -54,11 +54,57 @@ todo
 * Download and install FontForge module (FontForge Python bindings)
   * e.g. on Linux Debian or Ubuntu: `sudo apt-get install python-fontforge`
 
-## Windows
+## Windows 7
+
+### Prerequisites
+
+* Download and install FontForge: http://fontforge.github.io/en-US/downloads/windows-dl/
+
+### Setup for Python 2
+
+#### Open a terminal with Administrator priviledges
+
+#### cd into FontForge installation directory
+
+For example:
+```sh
+cd "C:\Program Files (x86)\FontForgeBuilds"
+```
+
+#### Run fontforge console batch file
+
+```sh
+fontforge-console.bat
+```
+
+#### install configparser
+
+```sh
+ffpython -m pip install configparser
+```
+#### Test out Nerd Fonts `font-patcher` script
+
+```sh
+ffpython C:\Path\to\nerd-fonts\font-patcher
+```
+
+Output should yield similar to:
+```sh
+...
+font-patcher: error: too few arguments
+```
+
+## Windows 10
+
+### Prerequisites
 
 * Download and install Python (latest 2.x or 3.x should be fine): https://www.python.org/downloads/windows/
 * Download and install FontForge: http://fontforge.github.io/en-US/downloads/windows-dl/
-* Download and install Cygwin: https://cygwin.com/install.html
+* Download and install Cygwin: https://cygwin.com/install.html or setup WSL ?
+
+### Setup for Python 2
+
+TODO
 
 # Hack font specific Development
 
