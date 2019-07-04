@@ -64,6 +64,7 @@ Real World mentions and usage of the Nerd Fonts project.
 * [even-better-ls](https://github.com/illinoisjackson/even-better-ls)
 * [colorls](https://github.com/athityakumar/colorls)
 * [astrality](https://pypi.python.org/pypi/astrality/0.4.2)
+* [trueline](https://github.com/petobens/trueline)
 
 ## Packages
 
