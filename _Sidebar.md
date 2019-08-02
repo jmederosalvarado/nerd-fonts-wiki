@@ -7,7 +7,7 @@
 * [Gitter Chat](https://gitter.im/ryanoasis/nerd-fonts)
 * [Terminal Emulators](https://github.com/ryanoasis/nerd-fonts/wiki/Terminal-Emulators)
 
-### [Codepoints](https://github.com/ryanoasis/nerd-fonts/wiki/Glyph-Sets-and-Code-Points)
+### [Glyph Sets & Codepoints](https://github.com/ryanoasis/nerd-fonts/wiki/Glyph-Sets-and-Code-Points)
 
 ### [Codepoint Conflicts](https://github.com/ryanoasis/nerd-fonts/wiki/Codepoint-Conflicts)
 
