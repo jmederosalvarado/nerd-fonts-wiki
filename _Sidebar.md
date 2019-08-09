@@ -8,6 +8,7 @@
 * [Terminal Emulators](https://github.com/ryanoasis/nerd-fonts/wiki/Terminal-Emulators)
 
 ### [Glyph Sets & Codepoints](https://github.com/ryanoasis/nerd-fonts/wiki/Glyph-Sets-and-Code-Points)
+### [Icon Names in Shell](https://github.com/ryanoasis/nerd-fonts/wiki/Icon-Names-in-Shell)
 
 ### [Codepoint Conflicts](https://github.com/ryanoasis/nerd-fonts/wiki/Codepoint-Conflicts)
 
