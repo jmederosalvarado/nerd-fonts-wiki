@@ -1,7 +1,7 @@
 This [Wiki](https://github.com/ryanoasis/nerd-fonts/wiki) and the [Readme](https://github.com/ryanoasis/nerd-fonts) contains a
 lot of information, please take your time to read the information.
 
-If you run into any trouble, please start by looking in the [FAQ](https://github.com/ryanoasis/nerd-fonts/wiki/FAQ) and if you still need help you can visit the [Gitter Chat].
+If you run into any trouble, please start by looking in the [FAQ](https://github.com/ryanoasis/nerd-fonts/wiki/FAQ-and-Troubleshooting) and if you still need help you can visit the [Gitter Chat].
 
 There is a heavily detailed [Changelog](https://github.com/ryanoasis/nerd-fonts/blob/master/changelog.md) and [Release changes](https://github.com/ryanoasis/nerd-fonts/releases).
 
