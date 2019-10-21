@@ -29,26 +29,3 @@ Adapted from @sharkusk's issue, for complete context see: https://github.com/rya
 Leveraging Fontconfig
 
 see: https://github.com/ryanoasis/nerd-fonts/blob/master/10-nerd-font-symbols.conf
-
-# Help
-
-* [FAQ](https://github.com/ryanoasis/nerd-fonts/wiki/FAQ-and-Troubleshooting)
-* [Screenshots](wiki/screenshots)
-* [Reporting Issues](wiki/Reporting-Issues)
-
-
-# Resources
-
-* [FontForge](https://fontforge.github.io/)
-* [Writing python scripts to change fonts in FontForge](https://fontforge.github.io/en-US/documentation/scripting/python/)
-* [Writing python scripts to change fonts in FontForge (old website)](https://fontforge.github.io/python.html)
-* [ttfautohint](https://www.freetype.org/ttfautohint/)
-
-
-[VimDevIcons]:https://github.com/ryanoasis/vim-devicons
-[vorillaz-devicons]:http://vorillaz.github.io/devicons/
-[font-awesome]:https://github.com/FortAwesome/Font-Awesome
-[octicons]:https://github.com/github/octicons
-[gabrielelana-pomicons]:https://github.com/gabrielelana/pomicons
-[Seti-UI]:https://atom.io/themes/seti-ui
-[ryanoasis-powerline-extra-symbols]:https://github.com/ryanoasis/powerline-extra-symbols
