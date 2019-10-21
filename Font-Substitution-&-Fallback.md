@@ -2,7 +2,7 @@
 	<img src="https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/images/nerd-fonts-logo.svg?sanitize=true" alt="Nerd Fonts" />
 </h1>
 
-In general Patched Fonts are not necessary required, because several systems support [font substitution (or fallback)](https://en.wikipedia.org/wiki/Font_substitution)
+In general Patched Fonts are not necessary required, because several systems support [font substitution](https://en.wikipedia.org/wiki/Font_substitution) and/or [Fallback fonts](https://en.wikipedia.org/wiki/Fallback_font)
 
 
 ## Windows
