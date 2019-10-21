@@ -9,6 +9,7 @@
 
 ### [Glyph Sets & Codepoints](https://github.com/ryanoasis/nerd-fonts/wiki/Glyph-Sets-and-Code-Points)
 ### [Icon Names in Shell](https://github.com/ryanoasis/nerd-fonts/wiki/Icon-Names-in-Shell)
+### [Font Substitution & Fallback](https://github.com/ryanoasis/nerd-fonts/wiki/Font-Substitution-&-Fallback)
 
 ### [Codepoint Conflicts](https://github.com/ryanoasis/nerd-fonts/wiki/Codepoint-Conflicts)
 
