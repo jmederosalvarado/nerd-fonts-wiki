@@ -63,7 +63,7 @@
 ### [Powerline Extra Symbols][ryanoasis-powerline-extra-symbols]
 > Provides extra Powerline separator glyphs and a column number glyph (CN). / ([repo][ryanoasis-powerline-extra-symbols])
 
-**Code Point Ranges:** `e0a3`,`e0b4`-`e0c8`,`e0cc`-`e0d2`,`e0d4`
+**Code Point Ranges:** `e0a3`,`e0b4`-`e0c8`,`e0ca`,`e0cc`-`e0d2`,`e0d4`
 
 #### [:mag: :bookmark_tabs: See set on the NerdFonts.com Website](http://nerdfonts.com/?set=nf-ple-#cheat-sheet)
 
