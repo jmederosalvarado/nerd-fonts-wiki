@@ -122,7 +122,7 @@ Nerd Fonts [2119] Material Design
 
 ### `Update `[`All Contributors`](https://github.com/kentcdodds/all-contributors)
 - run: `all-contributors check`
-- ignore bots and compare differences between this release and the last, [for example](https://github.com/ryanoasis/nerd-fonts/compare/1.2.0...2.0.0)
+- ignore bots and compare differences between this release and the last, [for example](https://github.com/ryanoasis/nerd-fonts/compare/2.1.0...2.2.0) or if that does not work a good process is to check the release milestone and add the user to the CLI with appropriate contributions (e.g. code,doc,translation,... etc.)
 - add or update the contributors with, e.g.: `all-contributors add <user> code,doc`
 - Spot check the changeset difference for issues
 - Update the [NerdFonts.com Website][website]
