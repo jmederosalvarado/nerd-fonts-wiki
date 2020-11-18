@@ -51,7 +51,7 @@ todo
   * version should be at least `20141231`
   * verify version: `fontforge --version 2>&1 | grep libfontforge | awk '{print $NF}'`
 * Download and install FontForge module (FontForge Python bindings)
-  * e.g. on Linux Debian or Ubuntu: `sudo apt-get install python-fontforge`
+  * e.g. on Linux Debian or Ubuntu: `sudo apt install python-fontforge` or `sudo apt install python3-fontforge`
 
 ## Windows 7
 
