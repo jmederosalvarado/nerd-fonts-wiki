@@ -77,7 +77,7 @@
 ### [Font Logos][font-linux] (Formerly [Font Linux][font-linux])
 > Font-logos is an icon font containing logos of popular linux distributions and other open source software for inclusion in websites. / ([repo][font-linux])
 
-**Code Point Ranges:** `f300`-`f313`
+**Code Point Ranges:** `f300`-`f31c`
 
 #### [:mag: :bookmark_tabs: See set on the NerdFonts.com Website](http://nerdfonts.com/?set=nf-linux-#cheat-sheet)
 
