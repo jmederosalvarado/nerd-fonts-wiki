@@ -45,7 +45,7 @@
 #### [:mag: :bookmark_tabs: See set on the NerdFonts.com Website](http://nerdfonts.com/?set=nf-mdi-#cheat-sheet)
 
 ### [Weather][font-weather]
-> 215 Weather Themed Icons and CSS. / ([repo][font-weather]) / ([website](http://weathericons.io/))
+> 215 Weather Themed Icons and CSS. / ([repo][font-weather]) / (website is now dead)
 
 **Code Point Ranges:** `e300`-`e3eb`
 
