@@ -38,8 +38,7 @@ Being its own project and repository adds a lot of benefits besides just separat
 # Resources
 
 * [FontForge](https://fontforge.github.io/)
-* [Writing python scripts to change fonts in FontForge](https://fontforge.github.io/en-US/documentation/scripting/python/)
-* [Writing python scripts to change fonts in FontForge (old website)](https://fontforge.github.io/python.html)
+* [Writing python scripts to change fonts in FontForge](https://fontforge.github.io/docs/scripting/python.html)
 * [ttfautohint](https://www.freetype.org/ttfautohint/)
 
 
