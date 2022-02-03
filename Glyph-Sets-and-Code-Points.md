@@ -12,7 +12,7 @@
 ### Seti-UI + Custom
 > Based off of [Seti-UI] Icomoon with extra custom glyphs.
 
-**Code Point Ranges:** `e5fa`-`e62b`
+**Code Point Ranges:** `e5fa`-`e631`
 
 #### [:mag: :bookmark_tabs: See set on the NerdFonts.com Website](http://nerdfonts.com/?set=nf-custom-#cheat-sheet)
 
@@ -54,16 +54,21 @@
 ### [Octicons][octicons]
 > GitHub's icons. / ([repo][octicons]) / ([website](https://octicons.github.com))
 
-**Code Point Ranges:** `f400`-`f4a8`,`2665`,`26A1`,`f27c`
+**Code Point Ranges:** `f400`-`f505`,`2665`,`26A1`,`f4a9`
 
 #### [:mag: :bookmark_tabs: See set on the NerdFonts.com Website](http://nerdfonts.com/?set=nf-oct-#cheat-sheet)*
 
 <sub>* To avoid conflicts between icon sets, these were modified in the 'Complete' fonts. To view the original codepoints see the [Wiki](https://github.com/ryanoasis/nerd-fonts/wiki/Codepoint-Conflicts).</sub>
 
+### [Powerline Symbols]
+> Powerline glyphs.
+
+**Code Point Ranges:** `e0a0`-`e0a2`,`e0b0`-`e0b3`
+
 ### [Powerline Extra Symbols][ryanoasis-powerline-extra-symbols]
 > Provides extra Powerline separator glyphs and a column number glyph (CN). / ([repo][ryanoasis-powerline-extra-symbols])
 
-**Code Point Ranges:** `e0a3`,`e0b4`-`e0c8`,`e0ca`,`e0cc`-`e0d2`,`e0d4`
+**Code Point Ranges:** `e0a3`,`e0b4`-`e0c8`,`e0ca`,`e0cc`-`e0d4`
 
 #### [:mag: :bookmark_tabs: See set on the NerdFonts.com Website](http://nerdfonts.com/?set=nf-ple-#cheat-sheet)
 
@@ -77,16 +82,23 @@
 ### [Font Logos][font-linux] (Formerly [Font Linux][font-linux])
 > Font-logos is an icon font containing logos of popular linux distributions and other open source software for inclusion in websites. / ([repo][font-linux])
 
-**Code Point Ranges:** `f300`-`f31c`
+**Code Point Ranges:** `f300`-`f32d`
 
 #### [:mag: :bookmark_tabs: See set on the NerdFonts.com Website](http://nerdfonts.com/?set=nf-linux-#cheat-sheet)
 
 ### [Pomicons][gabrielelana-pomicons]
 > 8 symbols for the ["Pomodoro Technique"®](https://cirillocompany.de/pages/pomodoro-technique). / ([repo][gabrielelana-pomicons])
 
-**Code Point Ranges:** `e000`-`e00d`
+**Code Point Ranges:** `e000`-`e00a`
 
 #### [:mag: :bookmark_tabs: See set on the NerdFonts.com Website](http://nerdfonts.com/?set=nf-pom-#cheat-sheet)
+
+### [Codicons][vscode-codicons]
+> The icon font for Visual Studio Code. / ([repo][vscode-codicons])
+
+**Code Point Ranges:** `ea60`-`ebeb`
+
+#### [:mag: :bookmark_tabs: See set on the NerdFonts.com Website](http://nerdfonts.com/?set=nf-code-#cheat-sheet)
 
 <!--
 Repo References
@@ -101,6 +113,7 @@ Repo References
 [octicons]:https://github.com/primer/octicons
 [font-linux]:https://github.com/Lukas-W/font-logos
 [gabrielelana-pomicons]:https://github.com/gabrielelana/pomicons
+[vscode-codicons]:https://github.com/microsoft/vscode-codicons
 [Seti-UI]:https://atom.io/themes/seti-ui
 [ryanoasis-powerline-extra-symbols]:https://github.com/ryanoasis/powerline-extra-symbols
 [wiki]:https://github.com/ryanoasis/nerd-fonts/wiki
